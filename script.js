@@ -1,6 +1,3 @@
-const show = document.getElementById("show");
-const enemy = document.getElementById("enemy");
-const me = document.getElementById("me");
 const enemyType = [ "Paper", "Scissor", "Stone" ];
 const enemyNumber = [ 1, 3, 9 ];
 const myNumber = [ 1, 2, 4 ];
